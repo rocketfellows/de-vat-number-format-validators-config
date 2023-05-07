@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1683481147">
-  <project timestamp="1683481147">
+<coverage generated="1683481415">
+  <project timestamp="1683481415">
     <file name="/app/src/DEVatNumberFormatValidatorsConfig.php">
       <class name="rocketfellows\DEVatNumberFormatValidatorsConfig\DEVatNumberFormatValidatorsConfig" namespace="global">
         <metrics complexity="2" methods="2" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="2" coveredstatements="2" elements="4" coveredelements="4"/>
